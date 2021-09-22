@@ -3,7 +3,7 @@
   <img align="center"; src="https://app.clickup.com/assets/images/brand/clickup-text.svg";>
 </h1>
 
-Solución rápida y sencilla para exportar tareas de [ClickUP](https://clickup.com/) a excel y csv.
+Solución rápida y sencilla para exportar tareas de [ClickUP](https://clickup.com/) a excel y csv con [Python](https://www.python.org/).
 
 ## 📋 Instalación:
 
