@@ -1,0 +1,16 @@
+# IDEs and editors.
+.vscode
+.vs
+.idea
+
+# Compilations.
+*.pyc
+*__pycache__
+
+# Virtual enviroments.
+env
+.env
+
+# Files.
+*.xlsx
+*.csv

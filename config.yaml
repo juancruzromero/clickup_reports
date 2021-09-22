@@ -1,0 +1,10 @@
+file_name: clickup-export-
+api_url: https://api.clickup.com/api/v2
+folder_params: /folder/{}/list
+sprint_params: /list/{}/task?include_closed=true
+# "api_token" se obtiene en https://app.clickup.com/settings/apps:
+api_token: pk_0000420_ABCDEEEEEEEEEEEEEEEEEEEEEEEEEEEE 
+folder_ids:
+  # Puede ser una o más "folders" dentro de un "space":
+  - '012345678' # -> "folder id" de un "space"
+  - '012345678' # -> "folder id" de un "space"
