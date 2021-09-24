@@ -21,7 +21,7 @@ Una vez realizado estos pasos, se debería encontrar los archivos en esta carpet
 Se puede sabiendo un poquito de python y manipulando el archivo **clean_tasks_dict.py** entre la línea 12 y 25.
 
 ## 😭 Posibles errores:
-Este proyecto está bastamte estable, pero pude ocurrir lo siguiente...
+Este proyecto está bastante estable, pero pude ocurrir lo siguiente...
 - En windows capaz no corre, o capaz que sí.
 - Si no se exportan datos debe ser porque los valores **"api_token"** y/o **"folder_ids"** no estan bien.
 - Porque no se utiliza la versión correcta de librerias especificadas en el requirements.txt.
