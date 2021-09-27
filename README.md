@@ -37,3 +37,6 @@ La comunidad **open-source** puede mantener este proyecto como desee. Algunas fe
 
 ## 👫 Contribuidores
 - [Juan Cruz Romero](https://github.com/juancruzromero)
+- [Diego Bojanich](https://github.com/diegoboja)
+- [Andy Segovia](https://github.com/andres-segovia) 
+- [Seba Rosenberg](https://github.com/s-rosenberg)
