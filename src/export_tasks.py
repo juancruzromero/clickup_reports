@@ -8,6 +8,7 @@ config_yaml = config()
 CLEAN_TASKS_LIST = CleanTasksDict().get_clean_tasks_list()
 FILE_NAME = config_yaml['file_name']
 NOW = str(datetime.now().isoformat()).split(".")[0]
+NOW = NOW.replace(":", "_")
 
 class ExportTasks():
     @staticmethod
